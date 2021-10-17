@@ -17,6 +17,8 @@ namespace StudentManagementWebsite.Controllers
         public Login(smgdbContext _ORM) {
 
             ORM = _ORM;
+
+/*files*/
      }
 
 
